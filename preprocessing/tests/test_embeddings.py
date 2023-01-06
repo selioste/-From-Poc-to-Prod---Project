@@ -1,7 +1,6 @@
 import unittest
-from IPython import embed
-#from preprocessing.preprocessing.embeddings import embed
 
+from preprocessing.preprocessing.embeddings import embed
 
 class EmbeddingsTest(unittest.TestCase):
     def test_embed(self):
