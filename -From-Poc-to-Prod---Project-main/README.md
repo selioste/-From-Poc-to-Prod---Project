@@ -1,4 +1,4 @@
-# Goal
+# Goal of the project
 
 Build a machine learning model that is able to prodict tag given an input test. 
 
