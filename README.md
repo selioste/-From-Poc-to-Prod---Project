@@ -17,6 +17,9 @@ We start by working on the preprocessing folder. Once finished, we run it to see
 # Useful command
 
 Command to execute the different folder on python:
+
 python -m unittest preprocessing.tests.test_utils
+
 python -m unittest train.tests.test_model_train
+
 python -m unittest predict.tests.test_predict
