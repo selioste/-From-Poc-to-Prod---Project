@@ -6,7 +6,7 @@ Build a machine learning model that is able to prodict tag given an input test.
 In the repository, you will a model based on 3 principal folders named:
  - Preprocessing
  - Train
- - Predict
+ - Predict 
 
 # Roadmap 
 
